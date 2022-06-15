@@ -5,12 +5,14 @@ body {
 }
 
 nav {
-    margin-left: calc(10%/6);
+    margin: 0 auto;
     text-transform: uppercase;
     border-bottom: 1px solid #fff;
     width: 30%;
     padding: 1.2em 0;
     color: white;
+    text-align: center;
+    box-shadow: 0 0 2em whitesmoke;
 }
 
 img {
