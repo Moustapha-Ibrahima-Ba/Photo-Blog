@@ -1,9 +1,11 @@
+/* Main Code for the body */
 body {
     /* background-color: #000; */
   background-color: #151b29;
   /* background-color: #000; */
 }
 
+/* Navigation Bar */
 nav {
     margin: 0 auto;
     text-transform: uppercase;
@@ -15,6 +17,7 @@ nav {
     box-shadow: 0 0 2em whitesmoke;
 }
 
+/* Images */
 img {
     width: 30%;
     margin: calc(10%/6);
